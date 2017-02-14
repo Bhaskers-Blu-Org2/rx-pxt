@@ -1,0 +1,18 @@
+{
+    "name": "rx-pxt",
+    "version": "0.0.0",
+    "description": "The Reactive Extensions for the Microsoft Programming Experience Toolkit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": false
+}

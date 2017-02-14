@@ -1,0 +1,30 @@
+{
+  "name": "rx-pxt",
+  "version": "1.0.0",
+  "description": "The Reactive Extensions for the Microsoft Programming Experience Toolkit",
+  "main": "main.ts",
+  "dependencies": {
+    "pxt-microbit": "^0.9.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Microsoft/rx-pxt.git"
+  },
+  "keywords": [
+    "pxt",
+    "microbit",
+    "rx",
+    "rxjs",
+    "adafruit"
+  ],
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Microsoft/rx-pxt/issues"
+  },
+  "homepage": "https://github.com/Microsoft/rx-pxt#readme"
+}
